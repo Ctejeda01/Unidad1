@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Awesome/.idea/Awesome.iml" filepath="$PROJECT_DIR$/../Awesome/.idea/Awesome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Bloques/.idea/Bloques.iml" filepath="$PROJECT_DIR$/../Bloques/.idea/Bloques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Foundation/.idea/Foundation.iml" filepath="$PROJECT_DIR$/../Foundation/.idea/Foundation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Inheritance/.idea/Inheritance.iml" filepath="$PROJECT_DIR$/../Inheritance/.idea/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Methods/.idea/Methods.iml" filepath="$PROJECT_DIR$/../Methods/.idea/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Blunder/.idea/Project1.iml" filepath="$PROJECT_DIR$/../Blunder/.idea/Project1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Prueba1/.idea/Prueba1.iml" filepath="$PROJECT_DIR$/../Prueba1/.idea/Prueba1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Quiz/.idea/Quiz.iml" filepath="$PROJECT_DIR$/../Quiz/.idea/Quiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RSpec/.idea/RSpec.iml" filepath="$PROJECT_DIR$/../RSpec/.idea/RSpec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scaffold/.idea/Scaffold.iml" filepath="$PROJECT_DIR$/../Scaffold/.idea/Scaffold.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Sqlite3/.idea/Sqlite3.iml" filepath="$PROJECT_DIR$/../Sqlite3/.idea/Sqlite3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../unidad1/.idea/unidad1.iml" filepath="$PROJECT_DIR$/../unidad1/.idea/unidad1.iml" />
+    </modules>
+  </component>
+</project>
